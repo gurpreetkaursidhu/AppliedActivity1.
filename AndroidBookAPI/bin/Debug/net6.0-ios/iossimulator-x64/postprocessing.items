@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="AndroidBookAPI.app/AndroidBookAPI">
+      <BCSymbolMapName>AndroidBookAPI.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>AndroidBookAPI.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/gurpreetkaur/Projects/AndroidBookAPI/AndroidBookAPI/obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>AndroidBookAPI.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/gurpreetkaur/Projects/AndroidBookAPI/AndroidBookAPI</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
