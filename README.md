@@ -1,0 +1,4 @@
+# AppliedActivity1.
+
+we can also delete the local one and also make an alias in line 6 in …
+…appshell.XAML i am not prefer to change my namespace if we want to change our name space then it is necessary to make alies or remove local otherwise you will get error while running code . namespace is important to change becausee it demonstrates that in which folder our xaml file is .In this case XAML file in view folder so you can mention view in namespace bu its not very important . 3) collections views are added in content page here in the collection views we can add thw data as per the API that what API we choose i choose bookstore API so data is regarding the storename , authorname , and price .Alias have to make in MainPage.Xaml file models named as per your Application name so alias is necessary to make for running the code.Here also declare an array type .
